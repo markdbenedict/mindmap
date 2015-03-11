@@ -3,118 +3,254 @@
     "graph": [], 
     "nodes": [
         {
-            "id": "Steve Szaruga"
+            "id": "Steve Szaruga", 
+            "Degree": 3.2958368660043291, 
+            "Label": []
         }, 
         {
-            "id": "Soft Matter"
+            "id": "Soft Matter", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Additive Manufacturing"
+            "id": "Additive Manufacturing", 
+            "Degree": 2.8332133440562162, 
+            "Label": [
+                "Discliplines"
+            ]
         }, 
         {
-            "id": "Mary Kinsella"
+            "id": "Mary Kinsella", 
+            "Degree": 2.5649493574615367, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Hypersonic Weapons"
+            "id": "Hypersonic Weapons", 
+            "Degree": 2.7725887222397811, 
+            "Label": [
+                "Discliplines"
+            ]
         }, 
         {
-            "id": "Ken Davidson"
+            "id": "Ken Davidson", 
+            "Degree": 2.9957322735539909, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Kermit Stearns"
+            "id": "Kermit Stearns", 
+            "Degree": 2.9957322735539909, 
+            "Label": []
         }, 
         {
-            "id": "Air Armaments"
+            "id": "Air Armaments", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "RQ"
+            "id": "RQ", 
+            "Degree": 2.7725887222397811, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Structures"
+            "id": "Structures", 
+            "Degree": 2.3978952727983707, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "RX"
+            "id": "RX", 
+            "Degree": 3.2188758248682006, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "C4ISR H/W-Space"
+            "id": "C4ISR H/W-Space", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "C4ISR H/W-Aircraft"
+            "id": "C4ISR H/W-Aircraft", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "Thermal Protection"
+            "id": "Thermal Protection", 
+            "Degree": 0.0, 
+            "Label": []
         }, 
         {
-            "id": "Airframes"
+            "id": "Airframes", 
+            "Degree": 2.7080502011022101, 
+            "Label": [
+                "Discliplines"
+            ]
         }, 
         {
-            "id": "Data"
+            "id": "Data", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Ceramics"
+            "id": "Ceramics", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Leading Edge"
+            "id": "Leading Edge", 
+            "Degree": 0.0, 
+            "Label": []
         }, 
         {
-            "id": "Industry"
+            "id": "Industry", 
+            "Degree": 0.0, 
+            "Label": []
         }, 
         {
-            "id": "Process Control"
+            "id": "Process Control", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Andy Swanson"
+            "id": "Andy Swanson", 
+            "Degree": 2.0794415416798357, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Simulation"
+            "id": "Simulation", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Sustainment"
+            "id": "Sustainment", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "RW"
+            "id": "RW", 
+            "Degree": 2.7080502011022101, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Composites"
+            "id": "Composites", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Inspection"
+            "id": "Inspection", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Photonic Matls"
+            "id": "Photonic Matls", 
+            "Degree": 2.9444389791664403, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "LOM/LOA"
+            "id": "LOM/LOA", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "Stats/DOE"
+            "id": "Stats/DOE", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "Discliplines"
+            ]
         }, 
         {
-            "id": "Aircraft Coatings"
+            "id": "Aircraft Coatings", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "Discliplines"
+            ]
         }, 
         {
-            "id": "Propulsion-Turbine Engines"
+            "id": "Propulsion-Turbine Engines", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "AFRL/RX"
+            "id": "AFRL/RX", 
+            "Degree": 0.0, 
+            "Label": []
         }, 
         {
-            "id": "Metals"
+            "id": "Metals", 
+            "Degree": 3.044522437723423, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "DARPA"
+            "id": "DARPA", 
+            "Degree": 2.3978952727983707, 
+            "Label": [
+                "Contact"
+            ]
         }, 
         {
-            "id": "Nose Tip"
+            "id": "Nose Tip", 
+            "Degree": 0.0, 
+            "Label": []
         }, 
         {
-            "id": "Electronic Matls"
+            "id": "Electronic Matls", 
+            "Degree": 2.9444389791664403, 
+            "Label": [
+                "RX Function"
+            ]
         }, 
         {
-            "id": "Manufacturing Research"
+            "id": "Manufacturing Research", 
+            "Degree": 2.6390573296152584, 
+            "Label": [
+                "RXM Roadmap"
+            ]
         }, 
         {
-            "id": "Insulation"
+            "id": "Insulation", 
+            "Degree": 0.0, 
+            "Label": []
         }
     ], 
     "links": [
