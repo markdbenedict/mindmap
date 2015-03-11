@@ -1,0 +1,1779 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "nodes": [
+        {
+            "id": "Steve Szaruga"
+        }, 
+        {
+            "id": "Soft Matter"
+        }, 
+        {
+            "id": "Additive Manufacturing"
+        }, 
+        {
+            "id": "Mary Kinsella"
+        }, 
+        {
+            "id": "Hypersonic Weapons"
+        }, 
+        {
+            "id": "Ken Davidson"
+        }, 
+        {
+            "id": "Kermit Stearns"
+        }, 
+        {
+            "id": "Air Armaments"
+        }, 
+        {
+            "id": "RQ"
+        }, 
+        {
+            "id": "Structures"
+        }, 
+        {
+            "id": "RX"
+        }, 
+        {
+            "id": "C4ISR H/W-Space"
+        }, 
+        {
+            "id": "C4ISR H/W-Aircraft"
+        }, 
+        {
+            "id": "Thermal Protection"
+        }, 
+        {
+            "id": "Airframes"
+        }, 
+        {
+            "id": "Data"
+        }, 
+        {
+            "id": "Ceramics"
+        }, 
+        {
+            "id": "Leading Edge"
+        }, 
+        {
+            "id": "Industry"
+        }, 
+        {
+            "id": "Process Control"
+        }, 
+        {
+            "id": "Andy Swanson"
+        }, 
+        {
+            "id": "Simulation"
+        }, 
+        {
+            "id": "Sustainment"
+        }, 
+        {
+            "id": "RW"
+        }, 
+        {
+            "id": "Composites"
+        }, 
+        {
+            "id": "Inspection"
+        }, 
+        {
+            "id": "Photonic Matls"
+        }, 
+        {
+            "id": "LOM/LOA"
+        }, 
+        {
+            "id": "Stats/DOE"
+        }, 
+        {
+            "id": "Aircraft Coatings"
+        }, 
+        {
+            "id": "Propulsion-Turbine Engines"
+        }, 
+        {
+            "id": "AFRL/RX"
+        }, 
+        {
+            "id": "Metals"
+        }, 
+        {
+            "id": "DARPA"
+        }, 
+        {
+            "id": "Nose Tip"
+        }, 
+        {
+            "id": "Electronic Matls"
+        }, 
+        {
+            "id": "Manufacturing Research"
+        }, 
+        {
+            "id": "Insulation"
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 1
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 2
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 3
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 4
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 5
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 6
+        }, 
+        {
+            "source": 0, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 7
+        }, 
+        {
+            "source": 0, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 11
+        }, 
+        {
+            "source": 0, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 12
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 14
+        }, 
+        {
+            "source": 0, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 15
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 16
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 36
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 20
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 21
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 22
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 24
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 25
+        }, 
+        {
+            "source": 0, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 26
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 27
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 28
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 29
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 30
+        }, 
+        {
+            "source": 0, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 31
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 32
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 35
+        }, 
+        {
+            "source": 0, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 19
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 1, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 1, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 6
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 4
+        }, 
+        {
+            "source": 1, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 10
+        }, 
+        {
+            "source": 1, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 22
+        }, 
+        {
+            "source": 1, 
+            "weight": 3, 
+            "key": "Involves", 
+            "target": 11
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 7
+        }, 
+        {
+            "source": 1, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 2
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 3
+        }, 
+        {
+            "source": 1, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 5
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 12
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 14
+        }, 
+        {
+            "source": 1, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 9
+        }, 
+        {
+            "source": 1, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 1, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 8
+        }, 
+        {
+            "source": 2, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 2, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 8
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 25
+        }, 
+        {
+            "source": 2, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 18
+        }, 
+        {
+            "source": 2, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 10
+        }, 
+        {
+            "source": 2, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 32
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 21
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 35
+        }, 
+        {
+            "source": 2, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 3
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 19
+        }, 
+        {
+            "source": 2, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 24
+        }, 
+        {
+            "source": 2, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 15
+        }, 
+        {
+            "source": 2, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 26
+        }, 
+        {
+            "source": 2, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 16
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 9
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 25
+        }, 
+        {
+            "source": 3, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 4
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 10
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 32
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 21
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 19
+        }, 
+        {
+            "source": 3, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 24
+        }, 
+        {
+            "source": 3, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 15
+        }, 
+        {
+            "source": 3, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 16
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 8
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 10
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 20
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 21
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 19
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 4, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 15
+        }, 
+        {
+            "source": 4, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 26
+        }, 
+        {
+            "source": 4, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 16
+        }, 
+        {
+            "source": 5, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 9
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 7
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 30
+        }, 
+        {
+            "source": 5, 
+            "weight": 3, 
+            "key": "Knows", 
+            "target": 25
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 36
+        }, 
+        {
+            "source": 5, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 10
+        }, 
+        {
+            "source": 5, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 32
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 21
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 22
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 11
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 35
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 12
+        }, 
+        {
+            "source": 5, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 19
+        }, 
+        {
+            "source": 5, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 24
+        }, 
+        {
+            "source": 5, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 15
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 26
+        }, 
+        {
+            "source": 5, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 27
+        }, 
+        {
+            "source": 5, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 16
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 9
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 7
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 30
+        }, 
+        {
+            "source": 6, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 25
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 36
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 10
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 32
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 21
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 22
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 11
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 35
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 12
+        }, 
+        {
+            "source": 6, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 19
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 24
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 15
+        }, 
+        {
+            "source": 6, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 26
+        }, 
+        {
+            "source": 6, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 27
+        }, 
+        {
+            "source": 6, 
+            "weight": 1, 
+            "key": "Knows", 
+            "target": 16
+        }, 
+        {
+            "source": 7, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 7, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 10
+        }, 
+        {
+            "source": 7, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 7, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 21
+        }, 
+        {
+            "source": 7, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 7, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 19
+        }, 
+        {
+            "source": 7, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 7, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 15
+        }, 
+        {
+            "source": 7, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 26
+        }, 
+        {
+            "source": 7, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 16
+        }, 
+        {
+            "source": 8, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 28
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 29
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 25
+        }, 
+        {
+            "source": 8, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 20
+        }, 
+        {
+            "source": 8, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 32
+        }, 
+        {
+            "source": 8, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 21
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 35
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 19
+        }, 
+        {
+            "source": 8, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 24
+        }, 
+        {
+            "source": 8, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 14
+        }, 
+        {
+            "source": 8, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 15
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 26
+        }, 
+        {
+            "source": 8, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 16
+        }, 
+        {
+            "source": 9, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 9, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 9, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 21
+        }, 
+        {
+            "source": 9, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 19
+        }, 
+        {
+            "source": 9, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 9, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 15
+        }, 
+        {
+            "source": 9, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 16
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 11
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 12
+        }, 
+        {
+            "source": 10, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 14
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 15
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 16
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 36
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 21
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 22
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 24
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 25
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 26
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 27
+        }, 
+        {
+            "source": 10, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 28
+        }, 
+        {
+            "source": 10, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 29
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 30
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 32
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 35
+        }, 
+        {
+            "source": 10, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 19
+        }, 
+        {
+            "source": 11, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 11, 
+            "weight": 3, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 11, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 21
+        }, 
+        {
+            "source": 11, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 11, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 19
+        }, 
+        {
+            "source": 11, 
+            "weight": 3, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 11, 
+            "weight": 3, 
+            "key": "Involves", 
+            "target": 15
+        }, 
+        {
+            "source": 11, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 26
+        }, 
+        {
+            "source": 11, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 16
+        }, 
+        {
+            "source": 12, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 12, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 12, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 21
+        }, 
+        {
+            "source": 12, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 12, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 19
+        }, 
+        {
+            "source": 12, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 12, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 15
+        }, 
+        {
+            "source": 12, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 26
+        }, 
+        {
+            "source": 12, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 16
+        }, 
+        {
+            "source": 13, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 20
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 25
+        }, 
+        {
+            "source": 14, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 35
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 20
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 32
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 21
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 14, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 19
+        }, 
+        {
+            "source": 14, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 24
+        }, 
+        {
+            "source": 14, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 15
+        }, 
+        {
+            "source": 14, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 26
+        }, 
+        {
+            "source": 14, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 16
+        }, 
+        {
+            "source": 15, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 15, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 15, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 15, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 15, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 15, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 22
+        }, 
+        {
+            "source": 15, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 15, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 16, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 16, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 16, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 16, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 16, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 16, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 22
+        }, 
+        {
+            "source": 16, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 16, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 17, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 20
+        }, 
+        {
+            "source": 19, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 19, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 19, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 19, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 19, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 19, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 22
+        }, 
+        {
+            "source": 19, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 19, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 20, 
+            "weight": 5, 
+            "key": "Knows", 
+            "target": 34
+        }, 
+        {
+            "source": 20, 
+            "weight": 9, 
+            "key": "Knows", 
+            "target": 37
+        }, 
+        {
+            "source": 21, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 23
+        }, 
+        {
+            "source": 21, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 21, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 21, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 21, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 21, 
+            "weight": 3, 
+            "key": "Involves", 
+            "target": 22
+        }, 
+        {
+            "source": 21, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 21, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 22, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 25
+        }, 
+        {
+            "source": 22, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 22, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 22, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 24
+        }, 
+        {
+            "source": 22, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 26
+        }, 
+        {
+            "source": 23, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 28
+        }, 
+        {
+            "source": 23, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 29
+        }, 
+        {
+            "source": 23, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 25
+        }, 
+        {
+            "source": 23, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 32
+        }, 
+        {
+            "source": 23, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 35
+        }, 
+        {
+            "source": 23, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 24
+        }, 
+        {
+            "source": 23, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 26
+        }, 
+        {
+            "source": 24, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 24, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 24, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 24, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 24, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 24, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 25, 
+            "weight": 9, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 25, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 25, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 25, 
+            "weight": 1, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 25, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 25, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 26, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 28
+        }, 
+        {
+            "source": 26, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 29
+        }, 
+        {
+            "source": 26, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 30
+        }, 
+        {
+            "source": 26, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 26, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 26, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 27
+        }, 
+        {
+            "source": 27, 
+            "weight": 5, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 27, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 28, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 32
+        }, 
+        {
+            "source": 28, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 35
+        }, 
+        {
+            "source": 29, 
+            "weight": 5, 
+            "key": "Belongs In", 
+            "target": 32
+        }, 
+        {
+            "source": 29, 
+            "weight": 1, 
+            "key": "Belongs In", 
+            "target": 35
+        }, 
+        {
+            "source": 30, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 32
+        }, 
+        {
+            "source": 30, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 35
+        }, 
+        {
+            "source": 32, 
+            "weight": 5, 
+            "key": "Is Studied By", 
+            "target": 33
+        }, 
+        {
+            "source": 32, 
+            "weight": 9, 
+            "key": "Involves", 
+            "target": 36
+        }, 
+        {
+            "source": 33, 
+            "weight": 9, 
+            "key": "Is Studied By", 
+            "target": 35
+        }, 
+        {
+            "source": 35, 
+            "weight": 1, 
+            "key": "Involves", 
+            "target": 36
+        }
+    ], 
+    "multigraph": false
+}
