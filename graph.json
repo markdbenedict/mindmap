@@ -4,252 +4,252 @@
     "nodes": [
         {
             "id": "Steve Szaruga", 
-            "Degree": 3.2958368660043291, 
+            "Degree": 27, 
             "Label": []
         }, 
         {
             "id": "Soft Matter", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Additive Manufacturing", 
-            "Degree": 2.8332133440562162, 
+            "Degree": 17, 
             "Label": [
                 "Discliplines"
             ]
         }, 
         {
             "id": "Mary Kinsella", 
-            "Degree": 2.5649493574615367, 
+            "Degree": 13, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Hypersonic Weapons", 
-            "Degree": 2.7725887222397811, 
+            "Degree": 16, 
             "Label": [
                 "Discliplines"
             ]
         }, 
         {
             "id": "Ken Davidson", 
-            "Degree": 2.9957322735539909, 
+            "Degree": 20, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Kermit Stearns", 
-            "Degree": 2.9957322735539909, 
+            "Degree": 20, 
             "Label": []
         }, 
         {
             "id": "Air Armaments", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "RQ", 
-            "Degree": 2.7725887222397811, 
+            "Degree": 16, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Structures", 
-            "Degree": 2.3978952727983707, 
+            "Degree": 11, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "RX", 
-            "Degree": 3.2188758248682006, 
+            "Degree": 25, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "C4ISR H/W-Space", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "C4ISR H/W-Aircraft", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "Thermal Protection", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }, 
         {
             "id": "Airframes", 
-            "Degree": 2.7080502011022101, 
+            "Degree": 15, 
             "Label": [
                 "Discliplines"
             ]
         }, 
         {
             "id": "Data", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Ceramics", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Leading Edge", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }, 
         {
             "id": "Industry", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }, 
         {
             "id": "Process Control", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Andy Swanson", 
-            "Degree": 2.0794415416798357, 
+            "Degree": 8, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Simulation", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Sustainment", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "RW", 
-            "Degree": 2.7080502011022101, 
+            "Degree": 15, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Composites", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Inspection", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Photonic Matls", 
-            "Degree": 2.9444389791664403, 
+            "Degree": 19, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "LOM/LOA", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "Stats/DOE", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "Discliplines"
             ]
         }, 
         {
             "id": "Aircraft Coatings", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "Discliplines"
             ]
         }, 
         {
             "id": "Propulsion-Turbine Engines", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "AFRL/RX", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }, 
         {
             "id": "Metals", 
-            "Degree": 3.044522437723423, 
+            "Degree": 21, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "DARPA", 
-            "Degree": 2.3978952727983707, 
+            "Degree": 11, 
             "Label": [
                 "Contact"
             ]
         }, 
         {
             "id": "Nose Tip", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }, 
         {
             "id": "Electronic Matls", 
-            "Degree": 2.9444389791664403, 
+            "Degree": 19, 
             "Label": [
                 "RX Function"
             ]
         }, 
         {
             "id": "Manufacturing Research", 
-            "Degree": 2.6390573296152584, 
+            "Degree": 14, 
             "Label": [
                 "RXM Roadmap"
             ]
         }, 
         {
             "id": "Insulation", 
-            "Degree": 0.0, 
+            "Degree": 1, 
             "Label": []
         }
     ], 
